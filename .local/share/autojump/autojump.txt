@@ -1,0 +1,9 @@
+24.4948974278	/mnt/c/users/CG01-JOSHCLOUD
+14.1421356237	/etc
+14.1421356237	/home/josh/fonts
+17.3205080757	/home/josh/new
+10.0	/mnt/c/users/CG01-JOSHCLOUD/workspace/aws
+10.0	/mnt/c/users
+10.0	/mnt/c
+28.2842712474	/mnt/c/users/CG01-JOSHCLOUD/workspace
+10.0	/mnt
